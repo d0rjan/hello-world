@@ -1,2 +1,5 @@
 # hello-world
-A "Hello, World!" program generally is a computer program that outputs or displays the message "Hello, World!". Because it is very simple in most programming languages, it is often used to illustrate the basic syntax of a programming language and is often the first program that those learning to code write.
+
+Hi Humans!
+
+Dorjan here, with a quick google search, we would know: Brian Kernighan actually wrote the first "hello, world" program as part of the documentation for the BCPL programming language developed by Martin Richards. BCPL was used while C was being developed at Bell Labs a few years before the publication of Kernighan and Ritchie's C book in 1972.
